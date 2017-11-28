@@ -79,7 +79,6 @@ contract StandardToken {
 
 
 /// @title Token contract - Implements Standard Token Interface for TokenFund.
-/// @author Evgeny Yurtaev - <evgeny@etherionlab.com>
 contract TokenFund is StandardToken {
 
     /*
